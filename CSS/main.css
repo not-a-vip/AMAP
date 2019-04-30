@@ -1,0 +1,31 @@
+body{
+    background-color: #ffffff;
+    font-family:cursive, Verdana, Arial, Helvetica, sans-serif;
+}
+
+header{
+    color: #000000;
+    background-color: #808080;
+    padding-top: 10px;
+}
+
+header h1{
+    float:left;
+    color: #0000ff;
+}
+
+header nav{
+    float: right;
+}
+
+header li{
+    display:inline-block;
+    padding: 10px 10px 10px 10px;
+    background-color: #36608a;
+    color: white;
+    overflow:hidden;
+}
+
+li:hover{
+    background-color:#ffffff;
+}
